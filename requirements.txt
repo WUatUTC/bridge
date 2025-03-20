@@ -1,0 +1,11 @@
+# Core dependencies
+streamlit
+numpy
+pandas
+scikit-learn
+pickle-mixin
+# Deep Learning Framework
+tensorflow
+# Visualization & Debugging
+matplotlib
+seaborn
